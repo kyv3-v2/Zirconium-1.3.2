@@ -1,1 +1,1 @@
-bad oyvey paste, i didnt check it...anyway dont run this shittery
+# bad oyvey paste,the rat is in net/jodah/typetools/util...dont run it
